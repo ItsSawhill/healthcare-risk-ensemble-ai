@@ -6,7 +6,7 @@
 Enterprise AI Decision Support Demo for Healthcare Analytics
 
 ### Document Purpose
-This report explains the business rationale, system design, modeling choices, user interface structure, and limitations of the Healthcare Risk Ensemble AI project. It is written to support interviews, project walkthroughs, referral conversations, and portfolio review.
+This report explains the business rationale, system design, modeling choices, user interface structure, and limitations of the Healthcare Risk Ensemble AI project. It is intended to provide a clear and professional overview of the project for technical and business audiences.
 
 ---
 
