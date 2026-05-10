@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+outputs/metrics/*.csv
+outputs/figures/*.png
+!outputs/metrics/.gitkeep
+!outputs/figures/.gitkeep
